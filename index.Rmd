@@ -1,19 +1,17 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Jenny Bo"
+image: "IMG_4388.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "www.linkedin.com/in/hjennybo"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:hbo@uchicago.edu"
 output:
   postcards::jolla
 ---
- 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a graduate student at the University of Chicago. My interest lies primarily at the intersection of culture and language, especially towards how communication skills and language learning impact different populations, especially international students. 
+
